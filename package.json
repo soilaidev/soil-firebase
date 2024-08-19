@@ -1,0 +1,40 @@
+{
+  "name": "soil-firebase",
+  "version": "0.0.3",
+  "description": "Smart-brained text-based code-gen",
+  "author": "Daniel Murawsky",
+  "homepage": "https://soilai.dev",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmurawsky/soil-firebase.git"
+  },
+  "bugs": "https://github.com/dmurawsky/soil-firebase/issues",
+  "license": "MIT",
+  "keywords": [
+    "ai",
+    "no-code",
+    "soil",
+    "react",
+    "firebase"
+  ],
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "rm -rf dist && tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "soilai": "^0.0.22"
+  },
+  "peerDependencies": {
+    "react": "^16.8.0"
+  },
+  "prettier": {
+    "printWidth": 80
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.3",
+    "typescript": "^5.5.4"
+  }
+}
