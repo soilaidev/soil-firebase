@@ -1,14 +1,14 @@
 {
-  "name": "firebase-soil",
-  "version": "0.0.2",
+  "name": "soil-firebase",
+  "version": "0.0.1",
   "description": "Smart-brained text-based code-gen",
   "author": "Daniel Murawsky",
   "homepage": "https://soilai.dev",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dmurawsky/soil-firebase.git"
+    "url": "git+https://github.com/soilaidev/soil-firebase.git"
   },
-  "bugs": "https://github.com/dmurawsky/soil-firebase/issues",
+  "bugs": "https://github.com/soilaidev/soil-firebase/issues",
   "license": "MIT",
   "keywords": [
     "ai",
