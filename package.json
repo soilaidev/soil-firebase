@@ -1,6 +1,6 @@
 {
-  "name": "soil-firebase",
-  "version": "0.0.5",
+  "name": "firebase-soil",
+  "version": "0.0.1",
   "description": "Smart-brained text-based code-gen",
   "author": "Daniel Murawsky",
   "homepage": "https://soilai.dev",
